@@ -1,5 +1,5 @@
 
-**Steps for Setup the Project**:
+**Steps for Setup the Project**:<br />
 use Python 3.8.10 <br />
 pip version 24.2 <br />
 IDE: PyCharm <br />
