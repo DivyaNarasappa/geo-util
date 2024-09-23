@@ -1,5 +1,5 @@
 
-Steps for Setup the Project:
+**Steps for Setup the Project**:
 
 virtualenv --system-site-packages venv
 source venv/bin/activate
@@ -8,12 +8,9 @@ pip install -r requirements.txt
 python setup.py install
 
 
-
-
-to run the utility:
+**to run the utility:**
 python GeoUtility geoloc-util "33132" "44113" "Chicago, IL"
 
 
-
-To trigger functional tests:
+**To trigger functional tests:**
 pytest -s -v  tests/test_geo_utility.py
