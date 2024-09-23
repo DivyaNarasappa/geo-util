@@ -1,8 +1,8 @@
 
 **Steps for Setup the Project**:
-use Python 3.8.10
-pip version 24.2
-IDE: PyCharm
+use Python 3.8.10 <br />
+pip version 24.2 <br />
+IDE: PyCharm <br />
 
 
 python3 -m venv venv <br />
