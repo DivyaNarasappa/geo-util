@@ -1,7 +1,11 @@
 
 **Steps for Setup the Project**:
+use Python 3.8.10
+pip version 24.2
+IDE: PyCharm
 
-virtualenv --system-site-packages venv <br />
+
+python3 -m venv venv <br />
 source venv/bin/activate <br />
 use pip 24.2 version <br />
 pip install -r requirements.txt <br />
