@@ -1,11 +1,11 @@
 
 **Steps for Setup the Project**:
 
-virtualenv --system-site-packages venv
-source venv/bin/activate
-use pip 24.2 version
-pip install -r requirements.txt
-python setup.py install
+virtualenv --system-site-packages venv <br />
+source venv/bin/activate <br />
+use pip 24.2 version <br />
+pip install -r requirements.txt <br />
+python setup.py install <br />
 
 
 **to run the utility:**
